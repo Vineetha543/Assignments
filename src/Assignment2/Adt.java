@@ -1,6 +1,5 @@
 package Assignment2;
 
-import java.util.LinkedList;
 
 public class Adt {
 
@@ -12,7 +11,7 @@ public class Adt {
 	   System.out.println(c.getCurrentValue());
 	   System.out.println(c.toString());
 	   
-	      LinkedList ll = new LinkedList();
+	      
 	   
   
 	}
