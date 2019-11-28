@@ -1,11 +1,10 @@
-package AssignmentOnCirLinkedList;
+package assignmentOnSinglyLinkedList;
 
-public class App 
+public class App
 {
-	public static void main(String[] args)
-	{
-
-	CircularLinkedList list = new CircularLinkedList(); 
+    public static void main(String[] args) 
+    {
+	   SinglyLinkedList list = new SinglyLinkedList();
 	   list.insertFirst(456);
 	   list.insertFirst(36);
 	   list.insertFirst(65);
@@ -13,5 +12,6 @@ public class App
 	   list.insertLast(7653);
 	   
 	   list.displayList();
+	   
 	}
 }

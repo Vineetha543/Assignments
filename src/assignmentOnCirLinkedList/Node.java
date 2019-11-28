@@ -1,4 +1,4 @@
-package AssignmentOnCirLinkedList; 
+package assignmentOnCirLinkedList; 
 
 public class Node
 {

@@ -1,4 +1,4 @@
-package AssignmentOnLinkedList;
+package assignmentOnLinkedList;
 
 public class Node
 {

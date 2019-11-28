@@ -1,4 +1,4 @@
-package AssignmentOnDoublyLinkedList;
+package assignmentOnDoublyLinkedList;
 
 public class Node
 {

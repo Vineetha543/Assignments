@@ -1,4 +1,4 @@
-package AssignmentOnSinglyLinkedList;
+package assignmentOnSinglyLinkedList;
 
 public class SinglyLinkedList
 {
